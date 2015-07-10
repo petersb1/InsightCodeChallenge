@@ -1,15 +1,21 @@
 Brock Petersen
+
 Code Challenge Submission 7.10.2015
 
-All work completed in python 2.7.9(~/anaconda/bin/python) with anaconda
+All work completed in python 2.7.9(~/anaconda/bin/python) with anaconda.
+
 The files completed on Mac OS X Yosemite version 10.10.3
+
 Both files rely on the sys library to call the correct input and output file from the .sh run script.
+
 Both files rely on the Counter function from the collections library to count unique words in the strings or arrays.
 
 words_tweeted
+	
 	This file relies on no other libraries than the two mentioned above.
 	
 median_unique
+	
 	This file also relies on the numpy library to create the array of words and the number of times they appear.
 	This was writen to check each line. In practice this should be written to check for new lines (in the example all lines are new). Then past meidans could be stored to update the median with the addition of new lines.
 
@@ -19,6 +25,7 @@ Thanks for the chance to participate. Being this was my first code challenge, I 
 
 I look forward to hearing from you!
 
+Best,
 Brock
 
 
